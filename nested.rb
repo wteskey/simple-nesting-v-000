@@ -109,6 +109,7 @@ def changing_alan
      alans_new_info = "GUI"
      
      
+     
 end
 
 def adding_to_dennis
